@@ -16,7 +16,7 @@ void main() async {
 
   // Initialize Notifications
   const fln.AndroidInitializationSettings initializationSettingsAndroid =
-      fln.AndroidInitializationSettings('@mipmap/ic_launcher');
+      fln.AndroidInitializationSettings('@mipmap/launcher_icon');
   final fln.InitializationSettings initializationSettings =
       fln.InitializationSettings(android: initializationSettingsAndroid);
   await flutterLocalNotificationsPlugin.initialize(initializationSettings);
