@@ -1,0 +1,4 @@
+﻿Analyzing money_tracker...                                      
+
+   info - Don't use 'BuildContext's across async gaps - lib\screens\main_screen.dart:373:27 - use_build_context_synchronously
+

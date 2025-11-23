@@ -1,0 +1,4 @@
+﻿Analyzing money_tracker...                                      
+
+   info - 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion - lib\models\expense.dart:30:22 - deprecated_member_use
+

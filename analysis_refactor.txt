@@ -1,0 +1,15 @@
+﻿Analyzing money_tracker...                                      
+
+   info - Constructors for public widgets should have a named 'key' parameter - lib\main.dart:9:7 - use_key_in_widget_constructors
+   info - 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion - lib\models\expense.dart:23:22 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\expenses_page.dart:10:9 - use_super_parameters
+   info - Unnecessary use of 'toList' in a spread - lib\screens\expenses_page.dart:38:71 - unnecessary_to_list_in_spreads
+   info - Parameter 'key' could be a super parameter - lib\screens\home_page.dart:8:9 - use_super_parameters
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\main_screen.dart:11:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\main_screen.dart:13:3 - library_private_types_in_public_api
+   info - The local variable '_pages' starts with an underscore - lib\screens\main_screen.dart:195:24 - no_leading_underscores_for_local_identifiers
+   info - Parameter 'key' could be a super parameter - lib\screens\settings_page.dart:9:9 - use_super_parameters
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\settings_page.dart:123:19 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\stats_page.dart:10:9 - use_super_parameters
+   info - Unnecessary use of 'toList' in a spread - lib\screens\stats_page.dart:215:16 - unnecessary_to_list_in_spreads
+

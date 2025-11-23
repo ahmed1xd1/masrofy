@@ -1,0 +1,22 @@
+﻿Analyzing money_tracker...                                      
+
+   info - Constructors for public widgets should have a named 'key' parameter - lib\main.dart:9:7 - use_key_in_widget_constructors
+   info - 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion - lib\models\category.dart:25:22 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion - lib\models\expense.dart:26:22 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\categories_page.dart:11:9 - use_super_parameters
+   info - Invalid use of a private type in a public API - lib\screens\categories_page.dart:20:3 - library_private_types_in_public_api
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\categories_page.dart:103:39 - unnecessary_non_null_assertion
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\categories_page.dart:108:39 - unnecessary_non_null_assertion
+   info - Parameter 'key' could be a super parameter - lib\screens\expenses_page.dart:10:9 - use_super_parameters
+   info - Unnecessary use of 'toList' in a spread - lib\screens\expenses_page.dart:38:71 - unnecessary_to_list_in_spreads
+   info - Parameter 'key' could be a super parameter - lib\screens\home_page.dart:8:9 - use_super_parameters
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\main_screen.dart:12:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\main_screen.dart:14:3 - library_private_types_in_public_api
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\main_screen.dart:192:23 - deprecated_member_use
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\main_screen.dart:253:53 - unnecessary_non_null_assertion
+  error - The named parameter 'onPressed' is required, but there's no corresponding argument - lib\screens\main_screen.dart:276:35 - missing_required_argument
+   info - Parameter 'key' could be a super parameter - lib\screens\settings_page.dart:10:9 - use_super_parameters
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\settings_page.dart:125:19 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\stats_page.dart:10:9 - use_super_parameters
+   info - Unnecessary use of 'toList' in a spread - lib\screens\stats_page.dart:215:16 - unnecessary_to_list_in_spreads
+

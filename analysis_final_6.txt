@@ -1,0 +1,4 @@
+﻿Analyzing money_tracker...                                      
+
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\main_screen.dart:256:53 - unnecessary_non_null_assertion
+

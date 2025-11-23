@@ -1,0 +1,7 @@
+﻿Analyzing money_tracker...                                      
+
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\categories_page.dart:103:39 - unnecessary_non_null_assertion
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\categories_page.dart:108:39 - unnecessary_non_null_assertion
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\main_screen.dart:194:23 - deprecated_member_use
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\main_screen.dart:255:53 - unnecessary_non_null_assertion
+
