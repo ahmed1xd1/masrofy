@@ -18,7 +18,10 @@
 
 ## 📱 لقطات الشاشة
 
-*![9](https://github.com/user-attachments/assets/5f6304c3-9bb9-4a08-a18a-6cf8cc9c09ed)
+*![1](https://github.com/user-attachments/assets/25fa86b2-b068-4d39-828a-8849f8c63af8) , ![2](https://github.com/user-attachments/assets/86f114e6-9e2f-4ead-9c86-5c56c2772d64) , ![3](https://github.com/user-attachments/assets/96419678-1e1b-48e6-b951-bc88f7ae91d8)
+
+
+
 
 
 
