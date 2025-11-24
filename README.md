@@ -21,22 +21,22 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/screenshots/home.png" width="200" />
+      <img src="https://github.com/user-attachments/assets/25fa86b2-b068-4d39-828a-8849f8c63af8" width="200" />
       <br />
       <b>الشاشة الرئيسية</b>
     </td>
     <td align="center">
-      <img src="assets/screenshots/stats.png" width="200" />
+      <img src="https://github.com/user-attachments/assets/86f114e6-9e2f-4ead-9c86-5c56c2772d64" width="200" />
       <br />
       <b>الإحصائيات</b>
     </td>
     <td align="center">
-      <img src="assets/screenshots/settings.png" width="200" />
+      <img src="https://github.com/user-attachments/assets/96419678-1e1b-48e6-b951-bc88f7ae91d8" width="200" />
       <br />
       <b>الإعدادات</b>
     </td>
   </tr>
-</table> 
+</table>
 
 ## 🛠️ التقنيات المستخدمة
 
@@ -56,7 +56,7 @@
 1.  تأكد من تثبيت [Flutter SDK](https://flutter.dev/docs/get-started/install).
 2.  انسخ المستودع:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/masrofy.git
+    git clone https://github.com/ahmed1xd1/masrofy.git
     ```
 3.  اذهب لمجلد المشروع:
     ```bash
