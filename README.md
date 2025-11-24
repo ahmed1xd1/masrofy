@@ -35,8 +35,6 @@
       <br />
       <b>الإعدادات</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b4049cda-d27f-464a-a9e5-4a9005feece9" width="200" />
       <br />
@@ -52,8 +50,6 @@
       <br />
       <b>الوضع الليلي</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d193f1a4-97d5-41aa-831e-18c357f60990" width="200" />
       <br />
