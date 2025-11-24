@@ -36,6 +36,35 @@
       <b>الإعدادات</b>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b4049cda-d27f-464a-a9e5-4a9005feece9" width="200" />
+      <br />
+      <b>إضافة مصروف</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/afc92827-e946-4602-8076-bf5cbeb02399" width="200" />
+      <br />
+      <b>أهداف التوفير</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ae871e63-b984-4885-8b1b-17ffcde2491f" width="200" />
+      <br />
+      <b>الوضع الليلي</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d193f1a4-97d5-41aa-831e-18c357f60990" width="200" />
+      <br />
+      <b>لقطة شاشة 7</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6b322457-cb02-4007-a2f5-b402234d69cd" width="200" />
+      <br />
+      <b>لقطة شاشة 8</b>
+    </td>
+  </tr>
 </table>
 
 ## 🛠️ التقنيات المستخدمة
