@@ -18,7 +18,25 @@
 
 ## 📱 لقطات الشاشة
 
-*(يمكنك إضافة صور للتطبيق هنا)*
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/home.png" width="200" />
+      <br />
+      <b>الشاشة الرئيسية</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/stats.png" width="200" />
+      <br />
+      <b>الإحصائيات</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/settings.png" width="200" />
+      <br />
+      <b>الإعدادات</b>
+    </td>
+  </tr>
+</table> 
 
 ## 🛠️ التقنيات المستخدمة
 
